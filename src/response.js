@@ -66,7 +66,7 @@ export default {
           {
             src:
               "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZFJO6f95BmjkRt5dUMVWINLoWPcmkH_912C-S0Tsc6xEJpZv5SeGeFxs",
-            width: "254",
+            width: "253",
             height: "198"
           }
         ],
